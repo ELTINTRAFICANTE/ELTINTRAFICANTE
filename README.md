@@ -2,11 +2,5 @@
 
 - 👋 Hi, I’m @ELTINTRAFICANTE
 - meu gmail de contato é eltonwesleyhresko111@gmail.com
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-
-
-<!---
-ELTINTRAFICANTE/ELTINTRAFICANTE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in  aprender a programar  novas lingugens
+- eu estou aprendend a programar  rencentemente  a linguagem  de  javaScript e Scratch
